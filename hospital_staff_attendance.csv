@@ -1,13 +1,13 @@
-INSERT INTO hospital_staff_attendance VALUES
-(1, 'Dr. Rekha Sharma', 1023, 'Doctor', 'Cardiology', 'Morning', '2025-07-17', 8, 17, 'Present'),
-(2, 'Nurse Priya R', 1125, 'Nurse', 'ICU', 'Night', '2025-07-16', 21, 6, 'Present'),
-(3, 'Dr. Karan Mehta', 1248, 'Doctor', 'Emergency', 'Evening', '2025-07-15', 14, 22, 'On Leave'),
-(4, 'Nurse Seema T', 1350, 'Nurse', 'Orthopedics', 'Morning', '2025-07-14', 7, 15, 'Present'),
-(5, 'Dr. Amit Desai', 1442, 'Doctor', 'Pediatrics', 'Morning', '2025-07-13', 8, 17, 'Absent'),
-(6, 'Nurse Rahul P', 1545, 'Nurse', 'ICU', 'Evening', '2025-07-12', 14, 22, 'Present'),
-(7, 'Dr. Ayesha Khan', 1661, 'Doctor', 'Emergency', 'Night', '2025-07-11', 21, 6, 'Present'),
-(8, 'Nurse Kavita G', 1720, 'Nurse', 'Cardiology', 'Morning', '2025-07-10', 8, 16, 'Present'),
-(9, 'Dr. Manish Bhatt', 1822, 'Doctor', 'Orthopedics', 'Evening', '2025-07-09', 14, 22, 'Absent'),
-(10, 'Nurse Anil N', 1945, 'Nurse', 'Emergency', 'Night', '2025-07-08', 21, 6, 'On Leave'),
-(11, 'Dr. Sohail Sayed', 2044, 'Doctor', 'ICU', 'Morning', '2025-07-07', 7, 15, 'Present'),
-(12, 'Nurse Reena Shah', 2155, 'Nurse', 'Pediatrics', 'Evening', '2025-07-06', 13, 20, 'Present');
+attendance_id,staff_name,staff_id,role,department,shift,attendance_date,check_in_hour,check_out_hour,status
+1,Dr. Rekha Sharma,1023,Doctor,Cardiology,Morning,2025-07-17,8,17,Present
+2,Nurse Priya R,1125,Nurse,ICU,Night,2025-07-16,21,6,Present
+3,Dr. Karan Mehta,1248,Doctor,Emergency,Evening,2025-07-15,14,22,On Leave
+4,Nurse Seema T,1350,Nurse,Orthopedics,Morning,2025-07-14,7,15,Present
+5,Dr. Amit Desai,1442,Doctor,Pediatrics,Morning,2025-07-13,8,17,Absent
+6,Nurse Rahul P,1545,Nurse,ICU,Evening,2025-07-12,14,22,Present
+7,Dr. Ayesha Khan,1661,Doctor,Emergency,Night,2025-07-11,21,6,Present
+8,Nurse Kavita G,1720,Nurse,Cardiology,Morning,2025-07-10,8,16,Present
+9,Dr. Manish Bhatt,1822,Doctor,Orthopedics,Evening,2025-07-09,14,22,Absent
+10,Nurse Anil N,1945,Nurse,Emergency,Night,2025-07-08,21,6,On Leave
+11,Dr. Sohail Sayed,2044,Doctor,ICU,Morning,2025-07-07,7,15,Present
+12,Nurse Reena Shah,2155,Nurse,Pediatrics,Evening,2025-07-06,13,20,Present
