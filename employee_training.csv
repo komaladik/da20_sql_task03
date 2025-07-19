@@ -1,0 +1,13 @@
+training_id,employee_name,employee_id,training_type,training_date,duration_hours,trainer_org,location,score,training_status
+1,Neelam Verma,1496,Leadership,2025-06-26,20,IBM,Mumbai,94,Completed
+2,Kiran Rao,3783,Technical,2025-06-24,6,TCS,Bangalore,69,Completed
+3,Mohit Sinha,9313,Soft Skills,2025-07-17,40,Capgemini,Hyderabad,67,Scheduled
+4,Tushar Rane,8163,Soft Skills,2025-06-11,8,IBM,Bangalore,54,Ongoing
+5,Neelam Verma,7810,Compliance,2025-06-07,15,IBM,Noida,57,Completed
+6,Mohit Sinha,2453,Leadership,2025-07-18,31,Capgemini,Pune,57,Ongoing
+7,Aakash Jain,5145,Leadership,2025-05-20,14,Accenture,Mumbai,93,Ongoing
+8,Kiran Rao,9910,Technical,2025-07-06,16,IBM,Mumbai,92,Scheduled
+9,Ravi Tripathi,4918,Soft Skills,2025-05-29,25,Accenture,Noida,76,Completed
+10,Anil Mehta,8812,Compliance,2025-06-06,29,Infosys,Noida,55,Ongoing
+11,Kiran Rao,3300,Technical,2025-06-24,27,Capgemini,Hyderabad,50,Completed
+12,Neelam Verma,8183,Leadership,2025-07-10,34,Accenture,Mumbai,61,Ongoing

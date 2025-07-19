@@ -1,0 +1,13 @@
+patient_id,patient_name,age,department,admission_date,discharge_date,bill_amount,payment_mode,feedback_score,status
+1,Pam Beesly,54,Orthopedics,2025-07-10,2025-05-29,30016.87,Insurance,7,Under Observation
+2,Phyllis Vance,29,Cardiology,2025-05-10,2025-07-13,27253.34,Insurance,1,Under Observation
+3,Kevin Malone,63,Orthopedics,2025-07-12,2025-06-16,2719.56,Cash,9,Under Observation
+4,Pam Beesly,52,Orthopedics,2025-04-26,2025-05-29,15533.24,Card,1,Under Observation
+5,Oscar Martinez,63,Cardiology,2025-04-09,2025-06-06,30759.95,Insurance,8,Admitted
+6,Jane Smith,61,Orthopedics,2025-06-26,2025-07-14,42306.7,Card,5,Under Observation
+7,John Doe,66,Pediatrics,2025-05-10,2025-07-07,37034.82,Insurance,1,Discharged
+8,Stanley Hudson,64,Cardiology,2025-05-06,2025-06-28,44672.13,Cash,10,Under Observation
+9,Alice Brown,80,Orthopedics,2025-05-04,2025-07-18,12495.25,Insurance,9,Under Observation
+10,Michael Scott,80,Orthopedics,2025-07-07,2025-06-01,30295.22,Cash,6,Admitted
+11,Pam Beesly,52,Pediatrics,2025-07-15,2025-07-08,33454.26,Insurance,3,Under Observation
+12,Dwight Schrute,66,Orthopedics,2025-05-15,2025-07-06,46977.74,Insurance,4,Under Observation

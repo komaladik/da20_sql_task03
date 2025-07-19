@@ -1,0 +1,13 @@
+claim_id,policyholder_name,policy_number,claim_type,claim_date,claim_amount,claim_status,insurance_provider,city,assessment_score
+1,Vivek Menon,6995989,Health,2025-06-05,43991.16,Approved,ICICI Lombard,Bhopal,10
+2,Rohan Gupta,9733933,Home,2025-06-12,23629.79,Rejected,HDFC Ergo,Ahmedabad,8
+3,Deepak Nair,2841090,Home,2025-04-04,87731.74,Rejected,Tata AIG,Kolkata,5
+4,Anita Rao,3066013,Home,2025-03-23,7255.84,Pending,Star Health,Ahmedabad,3
+5,Sanjay Kulkarni,5662439,Health,2025-06-13,71025.18,Approved,HDFC Ergo,Ahmedabad,9
+6,Geeta Iyer,5886489,Vehicle,2025-06-08,29295.68,Approved,Star Health,Ahmedabad,4
+7,Rohan Gupta,9294619,Travel,2025-06-28,70916.13,Pending,Bajaj Allianz,Kolkata,7
+8,Lata Sharma,7853269,Travel,2025-07-05,52362.98,Pending,Bajaj Allianz,Bhopal,3
+9,Alok Verma,6256659,Home,2025-06-03,33500.11,Pending,Tata AIG,Chennai,8
+10,Maya Joshi,9939387,Health,2025-05-18,69537.16,Approved,Bajaj Allianz,Jaipur,2
+11,Vivek Menon,5129445,Health,2025-07-06,68114.48,Approved,ICICI Lombard,Jaipur,1
+12,Rakesh Yadav,9395148,Home,2025-05-13,35142.35,Pending,ICICI Lombard,Bhopal,8

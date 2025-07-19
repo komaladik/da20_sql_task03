@@ -1,0 +1,13 @@
+transaction_id,user_name,account_number,transaction_type,transaction_date,amount,payment_mode,merchant_name,location,status
+1,Neha Verma,1615994532,Payment,2025-04-19,37608.19,Wallet,Zomato,Delhi,Completed
+2,Kunal Desai,6136565194,Payment,2025-07-09,37960.59,Wallet,Zomato,Mumbai,Completed
+3,Suresh Reddy,7111753895,Deposit,2025-06-07,19058.9,Wallet,Flipkart,Hyderabad,Failed
+4,Meera Nair,2211727026,Deposit,2025-05-04,49648.12,Wallet,IRCTC,Bangalore,Failed
+5,Pooja Mishra,3914208523,Withdrawal,2025-07-13,17547.9,UPI,Zomato,Mumbai,Failed
+6,Meera Nair,8945274259,Transfer,2025-04-28,13437.22,Card,Uber,Delhi,Pending
+7,Amit Joshi,5954648503,Payment,2025-05-29,8859.2,Wallet,Paytm,Hyderabad,Pending
+8,Meera Nair,5102905040,Withdrawal,2025-06-02,9141.06,Netbanking,Amazon,Bangalore,Pending
+9,Priya Singh,7768337043,Withdrawal,2025-05-09,22443.03,Card,Amazon,Bangalore,Completed
+10,Rahul Jain,1669488665,Payment,2025-05-09,22088.33,Card,Zomato,Hyderabad,Completed
+11,Kunal Desai,4841444166,Withdrawal,2025-04-25,15966.02,UPI,Uber,Delhi,Pending
+12,Sneha Shah,2285500178,Payment,2025-06-01,27829.29,Card,Uber,Delhi,Failed
